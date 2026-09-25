@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm s1807750085-tech 👋
 
-<!--
-**s1807750085-tech/s1807750085-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use GitHub to learn, build, and share small projects.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [`hello_github.py`](./hello_github.py) — a tiny command-line starter written in Python.
+
+```bash
+python hello_github.py --name "Your name"
+```
+
+## What I'm doing here
+
+- Building a public portfolio through small, practical projects.
+- Learning clean code and open-source workflows.
+- Sharing progress one commit at a time.
+
+Thanks for stopping by!
